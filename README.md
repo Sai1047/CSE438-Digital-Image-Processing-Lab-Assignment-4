@@ -8,7 +8,9 @@ This project applies a custom 3×3 weighted filter to a black and white image fe
 
 The custom filter used is:
 [1, 1, 1]
+
 [1, 2, 1]
+
 [1, 1, 1]
 
 It is normalized by dividing by the sum of its weights (10) to preserve brightness.
