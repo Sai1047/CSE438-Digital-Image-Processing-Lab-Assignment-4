@@ -7,6 +7,7 @@ This project applies a custom 3×3 weighted filter to a black and white image fe
 ## Filter Kernel
 
 The custom filter used is:
+
 [1, 1, 1]
 
 [1, 2, 1]
